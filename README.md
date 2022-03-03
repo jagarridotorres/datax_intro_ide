@@ -13,6 +13,8 @@ https://www.jetbrains.com/pycharm
 - IDE Microsoft Visual Studio Code:
 https://code.visualstudio.com
 
+If you want more detailed instructions on Anaconda installation, please refer to: 
+https://researchcomputing.princeton.edu/learn/workshops-live-training/requirements-picscie-virtual-workshops#jupyter
 
 ## Getting Help
 If you have any questions about the material or the tools presented in this workshop please send an email to jagt@princeton.edu or vineetb@princeton.edu.
